@@ -9,9 +9,9 @@
   ### 🤝🏻 &nbsp;Connect with Me 
   <a href="https://linkedin.com/in/javier-rc" target="blank"><img width='28px' align="center"     
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a></a>&nbsp;&nbsp;&nbsp;
+      alt="adam pithewan" height="30" width="40" /></a></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = 'https://www.github.com/j4vier-rc'> <img width = '28px' align= 'center' 
-      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a></a>&nbsp;&nbsp;&nbsp;
+      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:javier.ramirez.c99@gmail.com"> <img width = '28px' align= 'center'
       src="https://skillicons.dev/icons?i=gmail"/> </a>
 </div>
