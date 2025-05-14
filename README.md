@@ -16,6 +16,7 @@
       src="https://skillicons.dev/icons?i=gmail"/> </a>
 </div>
 
+-----
  ## 👨🏻‍💻 ABOUT ME
 - 🎓 An Economics graduate from "Facultad de Estudios Superiores Acatlán", "Universidad Nacional Autónoma de México". 
 - ⚡ I'm very interested in working as a Data Analyst because it's an area I really enjoy, and I have many skills that would allow me to do a great job.
@@ -38,13 +39,10 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVyZWFqMTN1M2FoajJka3hkZ3lieHY5aDVlaWltODV0NHh0Z3AybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPpFhwsMNrRIjN6/giphy.gif" width="350" align="center"/>
 
-
+-----
 ## *PROYECTS*
-
 [<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtlcXQzcHAyeHhtZDltMTU0ajJmYXl2a2hrcmN1cDA4NDhwNHZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDZBrmwNjm5g8qsl1F/giphy.gif" width="350" align="center"/>](https://github.com/J4vier-RC/PROJECTS-J4vier/tree/main)
 [<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFkcnVnZDkyb2h5azFyMzhhN3c0bHhucXBzMGRkODQ4OHNlZ3IxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8YvxhbQoVYPSt7pB94/giphy.gif" width="350" align="right"/>](https://github.com/J4vier-RC/PROJECTS-J4vier/tree/main)
-
-
 
 -----
 
